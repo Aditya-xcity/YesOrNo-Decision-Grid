@@ -14,9 +14,8 @@ Built using pure **HTML, CSS, and JavaScript**, this project focuses on speed, c
 
 ## 🔗 Live Demo
 
-👉 **Live Demo:** [Coming Soon](#)
+👉 **Live Demo:** [ClickMe](https://rawcdn.githack.com/Aditya-xcity/YesOrNo-Decision-Grid/e0db6ed1dbe4814beff4c0d9b4c601cd72c0fbdd/YesOrNo/index.html)
 
-*(Demo link intentionally left blank and will be updated after deployment.)*
 
 ---
 
@@ -68,7 +67,7 @@ Ideal for:
 ## 📂 Project Structure
 
 ```text
-YesOrNo_Holder/
+YesorNo-Decision-Grid/
 │── .gitignore
 │
 └── YesOrNo/
@@ -118,3 +117,4 @@ Open for learning, experimentation, and personal use.
 ---
 
 ✨ *Built to turn fast clicks into clear decisions.*
+
